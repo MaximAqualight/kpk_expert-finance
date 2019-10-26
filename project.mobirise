@@ -87,11 +87,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
-              "title": ""
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://mobiris.ru\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КПК «Эксперт Финанс»</a>",
+          "brand": "<a class=\"text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КПК «Эксперт Финанс» КРЫМ</a>",
           "_tags": [
             "Theme"
           ],
@@ -168,7 +169,7 @@
               "text-align": "center"
             },
             "B": {
-              "font-size": "32px"
+              "font-size": "36px"
             },
             "H2": {
               "color": "#ffffff"
@@ -341,7 +342,7 @@
         {
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
@@ -390,7 +391,7 @@
             "showTitle": true,
             "showText": false,
             "showForm": true,
-            "paddingTop": 2,
+            "paddingTop": "3",
             "paddingBottom": 2,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/proxyclick-visitor-management-system-wshvgrpt8eo-unsplash-2000x1335.jpg",
