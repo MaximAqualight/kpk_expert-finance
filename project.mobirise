@@ -362,10 +362,10 @@
           "title2": "<b>Поддержка</b>",
           "title3": "<b>Адрес</b>",
           "title4": "<b>Email</b>",
-          "text1": "+7 (978) 985-92-03",
-          "text2": "support@expert-finance.ru",
+          "text1": "<a href=\"tel:+7-978-9859203\" class=\"text-black\">+7 (978) 985-92-03</a>",
+          "text2": "<a href=\"mailto:support@expert-finance.ru\" class=\"text-black\">support@expert-finance.ru</a>",
           "text3": "улица Большевицкого 24",
-          "text4": "expert-finance@bk.ru",
+          "text4": "<a href=\"mailto:expert-finance@bk.ru\" class=\"text-black\">expert-finance@bk.ru</a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
