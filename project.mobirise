@@ -32,7 +32,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "4.11.3"
   },
   "pages": {
@@ -72,14 +72,14 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": true,
-            "sticky": false,
+            "sticky": true,
             "transparent": true,
             "bgColor": "#333",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-9\">ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box20-g\">УСЛУГИ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-n\">ДОКУМЕНТЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form6-p\">КОНТАКТЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-u\">КОНСУЛЬТАЦИЯ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-9\">ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box20-g\">УСЛУГИ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-n\">ДОКУМЕНТЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts5-v\">КОНТАКТЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-u\">КОНСУЛЬТАЦИЯ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -336,10 +336,8 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
@@ -351,54 +349,35 @@
             },
             "overlay": true,
             "overlayColor": "#151515",
-            "overlayOpacity": 0.5,
-            "googleMap": {
-              "address": "Симферополь , улица Большевицкого 24",
-              "placeId": "",
-              "state": "error",
-              "stateDetails": "Failed to load the library"
-            }
+            "overlayOpacity": 0.75,
+            "iconsColor": "@primaryColor",
+            "icon1": "fa-mobile",
+            "icon2": "fa-check-square-o",
+            "icon3": "fa-map-marker",
+            "icon4": "fa-envelope"
           },
-          "title": "+7 (978) 985-92-03",
-          "text": "<b>Viber / WhatsApp</b><br><br>Рабочие часы<br>Пн-Пт 9:00-18:00<b><br></b>",
-          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Dribble\" target=\"_blank\" href=\"https://dribbble.com/Mobirise\"><i class=\"fa fa-dribbble\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"fa fa-instagram\"></i></a> ",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-ico\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить<i class=\"fa fa-paper-plane-o\"></i></a>",
-          "form": {
-            "action": "smartstorerussia@yandex.ru",
-            "alerts": {
-              "success": "Сообщение отправлено!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Ваше Имя"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Ваш Email"
-              },
-              "subject": {
-                "visible": true,
-                "title": "Subject",
-                "customTitle": "Тема"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Сообщение"
-              }
-            }
-          },
+          "title": "Любые вопросы ? Связаться с нами",
+          "text": "<b>КРЫМСКИЙ НОМЕР +7 (978) 985-92-03</b>",
+          "title1": "<b>Viber / whatsapp</b>",
+          "title2": "<b>Поддержка</b>",
+          "title3": "<b>Адрес</b>",
+          "title4": "<b>Email</b>",
+          "text1": "+7 (978) 985-92-03",
+          "text2": "support@expert-finance.ru",
+          "text3": "улица Большевицкого 24",
+          "text4": "expert-finance@bk.ru",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "form6",
-          "_anchor": "form6-p",
+          "_name": "contacts5",
+          "_anchor": "contacts5-v",
           "_styles": {
             "B": {
               "font-size": "20px"
+            },
+            "H1": {
+              "font-size": "30px"
             }
           }
         },
