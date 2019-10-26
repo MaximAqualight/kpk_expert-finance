@@ -171,12 +171,16 @@ p {
 }
 #header2-9 P {
   font-size: 30px;
+  color: #ffffff;
 }
 #header2-9 H4 {
   text-align: center;
 }
 #header2-9 B {
-  font-size: 36px;
+  font-size: 32px;
+}
+#header2-9 H2 {
+  color: #ffffff;
 }
 #msg-box20-g H2 {
   text-align: center;
@@ -197,5 +201,5 @@ p {
   font-size: 30px;
 }
 #header1-u B {
-  font-size: 30px;
+  font-size: 25px;
 }
