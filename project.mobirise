@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "КПК «Эксперт Финанс»",
+    "name": "КПК «Эксперт Финанс» КРЫМ",
     "currentPage": "index.html",
     "theme": {
       "name": "unicore",
@@ -39,7 +39,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "КПК «ЭКСПЕРТ ФИНАНС»",
+        "title": "КПК «ЭКСПЕРТ ФИНАНС» КРЫМ",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
