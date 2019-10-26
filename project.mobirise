@@ -52,7 +52,7 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "24px"
+              "font-size": "18px"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "0.8em",
