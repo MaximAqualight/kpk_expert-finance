@@ -96,7 +96,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КПК «Эксперт Финанс» КРЫМ</a>",
+          "brand": "<a class=\"text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КПК «Эксперт Финанс»</a>",
           "_tags": [
             "Theme"
           ],
@@ -125,7 +125,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "ЗАКАЗАТЬ КОНСУЛЬТАЦИЮ СЕЙЧАС!",
-          "title1": "<b>Кредитно-потребительский кооператив «Экспет Финанс»</b><br><b><br></b>",
+          "title1": "<b>Кредитно-потребительский кооператив «Эксперт Финанс»</b><br><b><br></b>",
           "text": "←Бесплатная консультация \n<br>←по использованию материнского капитала",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ЗАКАЗАТЬ</a>",
           "buttons1": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ СЕЙЧАС</a>",
@@ -199,7 +199,7 @@
             "overlayOpacity": 0.5
           },
           "title": "1 столбец",
-          "text": "<b>Помощь в реализации материнского капитала на улучшение жилищных условий</b>",
+          "text": "<b>Помощь в реализации материнского капитала на</b><br><br><b> улучшение жилищных условий</b>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -549,7 +549,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КПК «Эксперт Финанс» КРЫМ</a>",
+          "brand": "<a class=\"text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КПК «Эксперт Финанс»</a>",
           "_tags": [
             "Theme"
           ],
@@ -578,7 +578,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "ЗАКАЗАТЬ КОНСУЛЬТАЦИЮ СЕЙЧАС!\n",
-          "title1": "<b>Кредитно-потребительский кооператив «Экспет Финанс»</b><br><b><br></b>",
+          "title1": "<b>Кредитно-потребительский кооператив «Эксперт Финанс»</b><br><b><br></b>",
           "text": "←БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ\n<br>←ПО ИСПОЛЬЗОВАНИЮ МАТЕРИНСКОГО КАПИТАЛА",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ЗАКАЗАТЬ</a>",
           "buttons1": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ СЕЙЧАС</a>",
